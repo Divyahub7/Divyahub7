@@ -57,7 +57,7 @@ I'm a passionate Full Stack Developer who loves crafting seamless web experience
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Divyahub7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Divyahub7&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyahub7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
