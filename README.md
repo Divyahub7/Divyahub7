@@ -23,7 +23,6 @@ const divya = {
   role:        "Full Stack Developer",
   focus:       ["Clean UI", "Scalable APIs", "Great UX"],
   philosophy:  "Write code that is readable, reliable, and maintainable.",
-  currentlyLearning: ["TypeScript", "System Design"],
   funFact:     "I debug with console.log and I'm not ashamed 😄"
 };
 ```
